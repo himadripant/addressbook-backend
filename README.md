@@ -1,6 +1,6 @@
 # addressbook-backend
 
-To launch the application  
+<h2>To launch the application</h2>  
 1. download the project.  
 2. in the root location, do maven build:   
     `mvn clean package`  
